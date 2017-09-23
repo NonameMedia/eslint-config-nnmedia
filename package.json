@@ -1,5 +1,5 @@
 {
-  "name": "@noname-media/standard",
+  "name": "@noname-media/eslint-config-standard",
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,5 @@
     "url": "https://github.com/NonameMedia/eslint-config-nnmedia/issues"
   },
   "homepage": "https://github.com/NonameMedia/eslint-config-nnmedia#readme",
-  "description": "My customized eslint config ;)"
+  "description": "My customized eslint config ;), it follows the StandardJS rules"
 }
