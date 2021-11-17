@@ -8,12 +8,12 @@
   "author": "Andi Heinkelein <andifeind@noname-media.com>",
   "license": "MIT",
   "dependencies": {
-    "eslint": "^7.29.0",
+    "eslint": "^8.2.0",
     "eslint-config-standard": "^16.0.3",
-    "eslint-plugin-import": "^2.23.4",
-    "eslint-plugin-markdown": "^2.2.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-markdown": "^2.2.1",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-promise": "^5.1.1",
     "eslint-plugin-standard": "^5.0.0"
   },
   "devDependencies": {},
